@@ -1,47 +1,53 @@
-TextoAVoz v1.4
-Descripción
-TextoAVoz es una aplicación de escritorio moderna que convierte texto a voz en español. Desarrollada con PyQt5 (VERSION 1.4) Y TKINTER (VERSION 1.3), ofrece una interfaz intuitiva y funcional para la conversión de texto a audio.
+Description
+TextoAVoz is a modern desktop application that converts text to speech in Spanish. Developed with PyQt5 (VERSION 1.4) and TKINTER (VERSION 1.3), it offers an intuitive and functional interface for text-to-audio conversion.
 
-Desarrollador
-Nombre: Daniel Ruiz
+Developer
+Name: Daniel Ruiz
 Alias: PoliXDev
-Academia: ConquerBlocks
-Características Principales
-✓ Conversión de texto a voz en español
-✓ Extracción de texto desde URLs
-✓ Control de velocidad de lectura
-✓ Interfaz moderna y fácil de usar
-✓ Guardado automático de archivos de audio
-✓ Vista previa de voz antes de la conversión
-Requisitos del Sistema
-Instalación de dependencias pip install PyQt5 pyttsx3 requests beautifulsoup4 Para Linux, también necesitarás: sudo apt-get install espeak alsa-utils python3-espeak
+Academy: ConquerBlocks
 
-Novedades de la Versión 1.4
-Nueva pantalla de inicio con resumen de características
-Interfaz modernizada con tema oscuro
-Soporte mejorado para extracción de texto desde URLs
-Control de velocidad más preciso
-Mejor manejo de errores
-Previsualización de texto extraído de URLs
-Problemas Conocidos
-Requiere configuración adicional en sistemas Linux
-Las voces disponibles dependen del sistema operativo
-Contribución
-Si deseas contribuir al proyecto, por favor:
+Main Features
+✓ Text-to-speech conversion in Spanish
+✓ Text extraction from URLs
+✓ Reading speed control
+✓ Modern and easy-to-use interface
+✓ Automatic saving of audio files
+✓ Voice preview before conversion
 
-Haz un Fork del repositorio
-Crea una nueva rama para tus cambios
-Envía un Pull Request
-Licencia
-DANIEL RUIZ - POLIXDEV © 2024
+System Requirements
+Install dependencies:
+pip install PyQt5 pyttsx3 requests beautifulsoup4
+For Linux, you'll also need:
+sudo apt-get install espeak alsa-utils python3-espeak
 
-Agradecimientos
-ConquerBlocks por el apoyo en el desarrollo
-Comunidad de PyQt5 por la documentación
-Usuarios por sus comentarios y sugerencias
-Desarrollado como proyecto para ConquerBlocks © 2024
+What's New in Version 1.4
 
-desarrollado por PoliXDev
+New startup screen with feature summary
+Modernized interface with dark theme
+Improved support for text extraction from URLs
+More precise speed control
+Better error handling
+Preview of extracted text from URLs
+Known Issues
+
+Requires additional configuration on Linux systems
+Available voices depend on the operating system
+Contribution
+If you want to contribute to the project, please:
+
+Fork the repository
+Create a new branch for your changes
+Submit a Pull Request
+
+
+Acknowledgments
+
+ConquerBlocks for support in development
+PyQt5 community for documentation
+Users for their feedback and suggestions
+Developed as a project for ConquerBlocks © 2024
+
+Desarrollado por PoliXDev
 Daniel Ruiz Poli
 danielruizpoli@gmail.com
 Estudiante academia conquerblocks
