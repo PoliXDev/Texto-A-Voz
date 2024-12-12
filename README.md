@@ -40,12 +40,7 @@ Create a new branch for your changes
 Submit a Pull Request
 
 
-Acknowledgments
 
-ConquerBlocks for support in development
-PyQt5 community for documentation
-Users for their feedback and suggestions
-Developed as a project for ConquerBlocks © 2024
 
 Desarrollado por PoliXDev
 Daniel Ruiz Poli
